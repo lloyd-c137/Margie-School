@@ -27,13 +27,14 @@ Margie School 不只是要让学习更高效。我们要挑战一种更深的假
 - [教育原则、边界及产品决策准则](docs/PRINCIPLES.md)
 - [第一阶段实验与待验证假设](docs/INITIAL_EXPERIMENT.md)
 - [第一节课：我们一直在等你（Foundation 001）](docs/curriculum/FOUNDATION_001.md)
+- [Vibe Coding 教学交互方案（Mobile First）](docs/curriculum/VIBE_CODING_TEACHING.md)
 - [当前讨论状态与卡点](docs/CURRENT_BLOCKERS.md)
 
 ## 当前阶段
 
 **理念与实验设计阶段。** 项目正式名称为 Margie School；完全免费、非营利、AI-native 的原则已明确。首个探索方向为 **Vibe Coding**，曾提出以约 10 名零基础学习者验证「能够构建并真正理解、修改作品」的目标。
 
-第一节课主题已确定为 **我们一直在等你（We've Been Waiting for You.）**：教育哲学启蒙，而非直接开始编程。课程形式、试讲安排仍待确认。
+第一节课主题已确定为 **我们一直在等你（We've Been Waiting for You.）**：教育哲学启蒙，而非直接开始编程。课程须完全在线、手机端可完整参与；明确偏好 Brilliant 式交互学习。Playable Curriculum 为教学模式候选，具体课程形式、试讲安排仍待确认。
 
 课程、产品架构、技术底座、实际参与人数、学习成效和长期可持续性**均尚未在本仓库得到实证确认**。研究与实施记录应明确区分「目标」「假设」「实验数据」和「已验证结论」。
 
@@ -41,4 +42,4 @@ Margie School 不只是要让学习更高效。我们要挑战一种更深的假
 
 ---
 
-*Foundational draft · updated 2026-11-25 · 本文档记录已讨论的使命方向，并非教育效果研究报告。*
+*Foundational draft · updated 2026-11-28 · 本文档记录已讨论的使命方向，并非教育效果研究报告。*
